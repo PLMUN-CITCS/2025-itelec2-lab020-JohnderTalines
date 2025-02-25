@@ -1,5 +1,6 @@
 def get_integer_input():
     """Handles user input to obtain an integer."""
+
         try:
     while True:
             user_input = input("Please enter an integer: ")
